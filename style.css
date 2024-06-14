@@ -1,0 +1,103 @@
+#HeaderSection div{
+    font-size: 15px;
+    font-weight: 400;
+    width: 10;
+    height: 65px;
+}
+.nav-link  i{
+     font-size: 22px;
+     padding: 0px 40px 0px 0px;
+}
+.carousel-item img{
+    height: 460px;
+}
+#CarouselSection{
+    margin: 0px 10px;
+}
+.carousel-indicators button{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+    margin: 0px 7px !important;
+    background-color: #117a7a !important;
+}
+.carousel-indicators{
+    position: absolute;
+    top: 485px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+    color:  #282c3f;
+}
+#FandomSection{
+    margin-top: 70px;
+}
+#FandomCarousel div img{
+    width: 480px; 
+    margin: 25px 10px;
+
+}
+#ArrivalSection{
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+    color: #282c3f;
+}
+#ArrivalCarousel div img{
+    width: 372px;
+    margin: 15px 2px;
+}
+#CollectionSection{
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+    color: #282c3f;
+}
+#CollectionCarousel div img{
+    width: 483px;
+    margin: 15px 10px ;
+}
+#CategoriesSection img {
+    width: 483px;
+    margin: 15px 10px ;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+    color: #282c3f
+}
+#CategoriesSection1 img{
+    width: 360px;
+    margin: 10px 8px ;
+}
+#CategoriesSection2 img{
+    width: 360px;
+    margin: 10px 8px ;
+}
+#CategoriesSection3 img{
+    width: 360px;
+    margin: 10px 8px ;
+}
+#SellingSection{
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+    color: #282c3f;
+}
+#ArrivalCarousel div img{
+    width: 372px;
+    margin: 15px 2px;
+}
+ 
